@@ -3,6 +3,6 @@
 
 void betaFunction(char *x)
 {
-  printf(" and <%s>\n.");
+  printf(" and <%s>\n.", x);
 }
 
