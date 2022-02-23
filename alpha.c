@@ -7,7 +7,7 @@
 
 int main(void)
 {
-  printf("Hello World Alpha!");
+  printf("Hello World Alpha! it is 2022");
   
   betaFunction("Goodbye.");
 }
