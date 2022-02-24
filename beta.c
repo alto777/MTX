@@ -6,6 +6,7 @@
 
 void betaFunction(char *x)
 {
+  printf("\nbeta: 24 FEB 2022\n");
   printf(" and beta says <%s>\n.", x);
 }
 
